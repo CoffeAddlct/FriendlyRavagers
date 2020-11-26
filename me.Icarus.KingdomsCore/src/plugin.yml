@@ -1,0 +1,8 @@
+main: me.Icarus.KingdomsCore.Main
+name: KingdomsCore
+version: 0.0.1
+author: Icarus
+api-version: 1.16
+
+commands:
+  raid:
